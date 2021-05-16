@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Saveo Task</string>
+
+
+    <string name="txt_movies">Movies</string>
+    <string name="txt_now_showing">Now Showing</string>
+    <string name="txt_transition_name">Details</string>
+
+    <string name="txt_book_now">BOOK NOW</string>
+    <string name="txt_synopsis">Synopsis</string>
+</resources>
